@@ -6,4 +6,4 @@ function provjerava(X) {
   }
 }
 
-provjerava(50);
+provjerava(53);
